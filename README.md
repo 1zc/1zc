@@ -4,6 +4,8 @@ You might be here from one of my projects (like my DIY smart-glasses project), o
 > - Infra#0001 on Discord
 > - infra@gflclan.com
 
+You can also find my GFL GitLab Profile here: https://gitlab.gflclan.com/infra
+
 I am currently an undergrad student, pursuing my Bachelors of Engineering (Honours) with a major in Software Engineering. That said, all of my projects are a side hobby and require free time that can be scarce. 
 
 #### If you would like to support me: 
