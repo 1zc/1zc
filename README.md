@@ -1,7 +1,7 @@
 ## Hey, welcome to my GitHub!
 
-You might be here from one of my projects (like my DIY smart-glasses project), or you may know me from my contributions with SourceMod (such as my plugins and work on SurfTimer at GFL). I am more than happy to talk about them, feel free to get in touch by hitting me up on Discord or shooting me an email!
-> - Infra#0001 on Discord
+You might be here from one of my projects (like my DIY smart-glasses project), or you may know me from my contributions with CS:GO/CS2 (such as my plugins and work on Surf). I am more than happy to talk about them, feel free to get in touch by hitting me up on Discord or shooting me an email!
+> - `Infra` on Discord
 > - infra@gflclan.com
 
 You can also find my GFL GitLab Profile here: https://gitlab.gflclan.com/infra
